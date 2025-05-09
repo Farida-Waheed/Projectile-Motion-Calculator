@@ -8,8 +8,7 @@ A C++ program that simulates **2D projectile motion** by calculating horizontal 
 
 * **University:** Benha University, Faculty of Engineering (Shoubra)  
 * **Department:** Communications and Computer Engineering  
-* **Course:** Mechanics 2 / Physics Programming  
-* **Supervisor:** Dr. Abdallah  
+* **Course:** Mechanics 2  
 
 ---
 
